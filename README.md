@@ -15,6 +15,7 @@ This repository contains exercise codes for the Formal Languages ​​and Compu
 
 <div style="display: inline_block"><cbr>
   <img align = "top" alt = "gabrielbribeiroo_VSCode" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+   <img align = "top" alt = "gabrielbribeiroo_XML" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" />
 </div>
 
 ## License
