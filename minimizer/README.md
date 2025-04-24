@@ -1,7 +1,16 @@
 # 🧠 DFA Minimizer (Deterministic Finite Automaton)
 
-This project implements a **DFA minimizer** using the **Table Filling method** in Python, designed to work smoothly in environments like **Google Colab**. It reads the DFA from a `.txt` file, validates and simplifies its structure, removes unreachable states, minimizes the states, and generates visual diagrams using **Graphviz**.
+This project implements a **DFA minimizer** using the **Table Filling method** in Python, designed to work smoothly in environments like **Google Colab**. It reads the DFA from a `.txt` file, validates and simplifies its structure, removes unreachable states, minimizes them, and generates visual diagrams using **Graphviz**.
 
+---
+
+## 🔍 Technologies
+<div style="display: inline_block"><cbr> 
+  <img align = "top" alt = "gabrielbribeiroo_GoogleColab" height = "50" width = "50" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" />
+  <img align = "top" alt = "gabrielbribeiroo_Python" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+  <img align = "top" alt = "gabrielbribeiroo_JupyterNotebook" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+</div>
+  
 ---
 
 ## 🚀 Features
