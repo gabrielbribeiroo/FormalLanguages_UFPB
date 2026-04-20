@@ -19,4 +19,4 @@ This repository contains exercise codes for the Formal Languages ​​and Compu
 </div>
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
